@@ -1,4 +1,4 @@
-{% set version = "10.0.26100.0" %}
+{% set version = "10.0.28000.2114" %}
 
 package:
   name: ucrt
@@ -6,9 +6,9 @@ package:
 
 source:
   # from https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
-  url: https://go.microsoft.com/fwlink/?linkid=2326092
+  url: https://go.microsoft.com/fwlink/?linkid=2366210
   fn: release_WindowsSDK.iso
-  sha256: bbaf94039238e84a532088189728133c3753a085a8c2ae060d5eb511ae610f97
+  sha256: 40333438696c6ec04aac31d1f268f06e760e92f848cfef8c3ee9ff397436465f
 
 build:
   number: 0
