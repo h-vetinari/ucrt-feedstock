@@ -1,4 +1,4 @@
-{% set version = "10.0.28000.2114" %}
+{% set version = "10.0.28000.0" %}
 
 package:
   name: ucrt
