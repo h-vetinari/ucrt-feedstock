@@ -1,3 +1,6 @@
+# while https://learn.microsoft.com/en-us/windows/apps/windows-sdk/downloads
+# lists various micro versions for each release, we always set this to 0, because
+# we want to match the version that's being used in the include paths within the ISO.
 {% set version = "10.0.28000.0" %}
 
 package:
